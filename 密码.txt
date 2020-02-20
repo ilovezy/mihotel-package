@@ -1,0 +1,15 @@
+gcios.p12  密码: wosxieez
+
+IOS： 
+
+AppId: com.greencloud.mobilepms2
+私钥密码: wosxieez
+proifle文件：D:\work\mihotel打包\MiHotel.mobileprovision
+私钥证书：D:\work\mihotel打包\gcios.p12
+
+
+Android: 
+Android包名：com.greencloud.mobilepms2
+证书别名：greencloud
+私钥密码: deviskaifa
+证书文件：D:\work\mihotel打包\greencloud.keystore
