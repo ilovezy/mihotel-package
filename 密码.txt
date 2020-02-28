@@ -13,3 +13,18 @@ Android包名：com.greencloud.mobilepms2
 证书别名：greencloud
 私钥密码: deviskaifa
 证书文件：D:\work\mihotel打包\greencloud.keystore
+
+
+
+
+Dcloud 账号 密码
+
+edobnet@163.com
+gcihotelDev
+
+
+
+SFTP
+192.168.0.106 端口 3305
+root   deviskaifa
+/usr/local/nginx/mobilepms/
